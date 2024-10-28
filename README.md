@@ -10,7 +10,7 @@ Treemap Visualization: Displays the distribution of characters (vowels, consonan
 Sankey Diagram: Shows the flow of characters before and after a selected character, illustrating how often they appear in relation to one another.
 Interactive Tooltips: Hovering over the treemap and Sankey diagram nodes reveals detailed information about character counts and flows.
 
-**Technology Stack***
+**Technology Stack**
 
 HTML
 CSS

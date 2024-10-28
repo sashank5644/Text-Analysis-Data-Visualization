@@ -26,6 +26,3 @@ Clone Repository
     git clone https://github.com/yourusername/repository-name.git
 
 Run index.html
-or
-
-  python3 -m http.server

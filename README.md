@@ -1,6 +1,6 @@
 # Text Analysis with Treemap and Sankey Diagram
 
-**User Interface**
+# User Interface
 
 ![imgs/interface.png](imgs/interface.png)
 

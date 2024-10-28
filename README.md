@@ -17,12 +17,12 @@ This project provides an interactive tool for analyzing character distributions 
 
 # Technology Stack
 
-HTML
-CSS
-JavaScript
-D3.js (v7)
-D3 Sankey (v0.12.3)
-Bootstrap (v5.2.0)
+* HTML
+* CSS
+* JavaScript
+* D3.js (v7)
+* D3 Sankey (v0.12.3)
+* Bootstrap (v5.2.0)
 
 # To Run Locally
 

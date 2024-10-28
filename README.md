@@ -18,3 +18,14 @@ JavaScript
 D3.js (v7)
 D3 Sankey (v0.12.3)
 Bootstrap (v5.2.0)
+
+**To Run Locally**
+
+Clone Repository
+
+    git clone https://github.com/yourusername/repository-name.git
+
+Run index.html
+or
+
+  python3 -m http.server

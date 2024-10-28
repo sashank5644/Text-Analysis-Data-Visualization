@@ -1,5 +1,11 @@
 # Text Analysis with Treemap and Sankey Diagram
 
+**UI**
+
+![imgs/interface.png](imgs/interface.png)
+
+![imgs/hover.gif](imgs/click_treemap.gif)
+
 **Overview**
 
 This project provides an interactive tool for analyzing character distributions within a given text. It utilizes D3.js to create a treemap visualization for character counts (vowels, consonants, and punctuation) and a Sankey diagram to illustrate the flow of characters before and after a selected character.

@@ -6,9 +6,9 @@ This project provides an interactive tool for analyzing character distributions 
 
 **Features**
 
-Treemap Visualization: Displays the distribution of characters (vowels, consonants, punctuation) within the entered text.
-Sankey Diagram: Shows the flow of characters before and after a selected character, illustrating how often they appear in relation to one another.
-Interactive Tooltips: Hovering over the treemap and Sankey diagram nodes reveals detailed information about character counts and flows.
+* Treemap Visualization: Displays the distribution of characters (vowels, consonants, punctuation) within the entered text.
+* Sankey Diagram: Shows the flow of characters before and after a selected character, illustrating how often they appear in relation to one another.
+* Interactive Tooltips: Hovering over the treemap and Sankey diagram nodes reveals detailed information about character counts and flows.
 
 **Technology Stack**
 
